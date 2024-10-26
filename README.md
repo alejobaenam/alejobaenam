@@ -6,8 +6,7 @@
 💭 Currently learning about Data Science and Machine Learning <br/>
 
 ### Interests
-Data Science, Machine Learning, technology, teamwork, communication, adaptability, and analytical thinking.
-
+Data Science, Machine Learning, algorithms, technology. I also like teamwork, communication, adaptability, and analytical thinking.
 
 ![Alejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejobaenam&show_icons=true&theme=rose)
 
