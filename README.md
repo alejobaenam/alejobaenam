@@ -8,6 +8,6 @@
 ## Interests
 Enjoying about Data Science, Machine Learning, algorithms, and technology. I value teamwork, communication, adaptability, and analytical thinking.
 
-![Alejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejobaenam&show_icons=true&theme=rose)
+<!--![Alejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejobaenam&show_icons=true&theme=rose)-->
 
 ![Luis's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=alejobaenam&theme=rose)
