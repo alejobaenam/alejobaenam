@@ -3,7 +3,7 @@
 🎓 Studying Computer Science at EAFIT University, Medellín <br/> 
 🌱 Learning through collaborative projects and competitions <br/> 
 💡 Passionate about using algorithms and data-driven solutions to solve real-world problems <br/>
-💭 Currently learning about Data Science and Machine Learning <br/>
+💭 Currently learning about Quantitative Finance, Data Science and Machine Learning <br/>
 
 ## Interests
 Enjoying about Data Science, Machine Learning, algorithms, and technology. I value teamwork, communication, adaptability, and analytical thinking.
