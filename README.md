@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Alejandro
 
-🎓 Studying Computer Science at EAFIT University, Medellín <br/> 
+🎓 Studying Applied Mathematics at EAFIT University, Medellín <br/> 
 🌱 Learning through collaborative projects and competitions <br/> 
 💡 Passionate about using algorithms and data-driven solutions to solve real-world problems <br/>
 💭 Currently learning about Quantitative Finance, Data Science and Machine Learning <br/>
