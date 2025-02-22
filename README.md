@@ -3,7 +3,7 @@
 🎓 Studying Applied Mathematics at EAFIT University, Medellín <br/> 
 🌱 Learning through collaborative projects and competitions <br/> 
 💡 Passionate about using algorithms and data-driven solutions to solve real-world problems <br/>
-💭 Currently learning about Quantitative Finance, Artificial Intelligence and Software Development <br/>
+💭 Currently learning about Quantitative Finance, Artificial Intelligence and Computer Science <br/>
 
 ## Interests
 Enjoying about Data Science, Machine Learning, algorithms, and technology. I value teamwork, communication, adaptability, and analytical thinking.
